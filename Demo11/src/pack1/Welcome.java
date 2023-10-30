@@ -7,5 +7,6 @@ public class Welcome
 		System.out.println("Hello");
 		System.out.println("Welcome to CSE");
 		System.out.println("Thank you");
+		System.out.println("This is a pull operation");
 	}
 }
